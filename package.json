@@ -1,0 +1,32 @@
+{
+  "name": "saberchat",
+  "version": "1.0.0",
+  "description": "Chat rooms for cool people",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "node": "^12.7.0",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbcox/saberchat.git"
+  },
+  "keywords": [
+    "chat",
+    "chatroom",
+    "room",
+    "talk"
+  ],
+  "author": "Jamie Cox",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/rbcox/saberchat/issues"
+  },
+  "homepage": "https://github.com/rbcox/saberchat#readme"
+}
